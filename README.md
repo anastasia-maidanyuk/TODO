@@ -9,7 +9,7 @@ Built as a technical assignment to demonstrate proficiency in **Modern React (Ne
 
 ## 🚀 Demo
 
-[DEMO] - 
+[DEMO] - https://todo-kappa-eosin-15.vercel.app/
 
 ---
 
